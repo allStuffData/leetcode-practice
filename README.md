@@ -7,6 +7,7 @@ Note:
 In general, the following are considered better:
 
 Lower time complexity: O(1) < O(log n) < O(n) < O(n log n) < O(n^2) < O(2^n) < O(n!)
+
 Lower space complexity: O(1) < O(log n) < O(n) < O(n log n) < O(n^2) < O(2^n)
 
 ## Topics Covered
@@ -21,7 +22,7 @@ Lower space complexity: O(1) < O(log n) < O(n) < O(n log n) < O(n^2) < O(2^n)
 
 | SNo | Question | LeetCode URL | Solution URL |
 |-----|----------|--------------|--------------|
-| 1   | Max Consecutive Ones  | [LeetCode Link](https://leetcode.com/problems/max-consecutive-ones/) | [Solution Link](Codes\Array\485_max_consecutive_ones.py) |
+| 1   | Max Consecutive Ones  | [LeetCode Link](https://leetcode.com/problems/max-consecutive-ones/) | [Solution Link](Codes/Array/485_max_consecutive_ones.py) |
 
 
 ## String Problems
